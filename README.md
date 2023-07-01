@@ -10,12 +10,12 @@ The first challenge is to factorize a list of numbers into two smaller numbers. 
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/rsa-factoring-challenge.git
+git clone https://github.com/SamuelAmihere/RSA-Factoring-Challenge.git
 ```
 
 2. Compile the code:
 ```
-gcc -o factors factors.c
+gcc -o factors factors.c fact.c
 ```
 
 
@@ -63,7 +63,7 @@ The second challenge is to factorize a single RSA number into two prime numbers 
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/rsa-factoring-challenge.git
+git clone https://github.com/SamuelAmihere/RSA-Factoring-Challenge.git
 ```
 
 
